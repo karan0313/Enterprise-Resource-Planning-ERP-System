@@ -54,7 +54,7 @@ public class SecurityConfig {
         configuration.setAllowCredentials(true);
         configuration.setAllowedOrigins(List.of(
                 "http://localhost:5173",
-                "https://YOUR-APP.netlify.app"
+                "https://nexerp-frontend-ten.vercel.app"
         ));
 
         UrlBasedCorsConfigurationSource source =

@@ -1,7 +1,7 @@
 import { useState, useEffect, createContext, useContext } from "react";
 
 // ─── API BASE ────────────────────────────────────────────────────────────────
-const API = "https://nexerp-backend.onrender.com/api";
+const API = "https://erp-backend-karan.onrender.com";
 
 const api = async (path, method = "GET", body = null) => {
   const token = localStorage.getItem("token");

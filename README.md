@@ -231,20 +231,6 @@ GET /api/dashboard
 
 ---
 
-# 📸 Screenshots
-
-(Add screenshots here)
-
-Example:
-
-* Login Page
-* Dashboard
-* Employee Management
-* Inventory Module
-* Sales Module
-
----
-
 # 👨‍💻 Author
 
 Karan G
